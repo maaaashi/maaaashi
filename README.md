@@ -25,3 +25,9 @@
 <a href="https://chatgpt-reversi.mss-rep.com/">
   <img src="./images/image-generator.png" width=400 style="cursor: pointer;" />
 </a>
+
+### Maaaashi's Cooking Assistant
+
+<a href="https://chatgpt-cooking-assistant.vercel.app/">
+  <img src="./images/cookingAssistant.png" width=400 style="cursor: pointer;" />
+</a>
