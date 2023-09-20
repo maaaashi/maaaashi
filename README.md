@@ -28,6 +28,6 @@
 
 ### Maaaashi's Cooking Assistant
 
-<a href="https://chatgpt-cooking-assistant.vercel.app/">
+<a href="https://chatgpt-cooking-assistant.mss-rep.com">
   <img src="./images/cookingAssistant.png" width=400 style="cursor: pointer;" />
 </a>
