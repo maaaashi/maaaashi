@@ -13,7 +13,7 @@
 
 ### Maaaashi's Website
 
-<a href="https://chatgpt-reversi.mss-rep.com/">
+<a href="https://maaaashi-website.mss-rep.com/">
   <img src="./images/maaaashi-website.png" width=400 style="cursor: pointer;" />
 </a>
 
@@ -25,7 +25,7 @@
 
 ### Maaaashi's Image Generator
 
-<a href="https://chatgpt-reversi.mss-rep.com/">
+<a href="https://image-generator.mss-rep.com/">
   <img src="./images/image-generator.png" width=400 style="cursor: pointer;" />
 </a>
 
