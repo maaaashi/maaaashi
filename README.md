@@ -8,29 +8,3 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maaaashi&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Generate Web App
-
-### Maaaashi's Website
-
-<a href="https://maaaashi-website.mss-rep.com/">
-  <img src="./images/maaaashi-website.png" width=400 style="cursor: pointer;" />
-</a>
-
-### Maaaashi's ChatGPT Reversi
-
-<a href="https://chatgpt-reversi.mss-rep.com/">
-  <img src="./images/chatgpt-reversi.png" width=400 style="cursor: pointer;" />
-</a>
-
-### Maaaashi's Image Generator
-
-<a href="https://image-generator.mss-rep.com/">
-  <img src="./images/image-generator.png" width=400 style="cursor: pointer;" />
-</a>
-
-### Maaaashi's Cooking Assistant
-
-<a href="https://chatgpt-cooking-assistant.mss-rep.com">
-  <img src="./images/cookingAssistant.png" width=400 style="cursor: pointer;" />
-</a>
