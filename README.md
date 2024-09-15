@@ -1,5 +1,15 @@
 # Maaaashi
 
+こんにちは！大岡正志と申します。
+現在、株式会社ユーザベースでWebエンジニアをしています。
+フロントエンド、バックエンド、インフラなど、幅広く開発を行っています。
+
+---
+
+Hello! My name is Masashi Ooka.
+I am currently working as a web engineer at Uzabase, Inc.
+I am involved in a wide range of development tasks, including front-end, back-end, and infrastructure.
+
 ## GitLab Status
 
 <p align="left">
