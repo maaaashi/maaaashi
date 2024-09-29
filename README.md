@@ -10,6 +10,11 @@
 > I am currently working as a web engineer at Uzabase, Inc.
 > I am involved in a wide range of development tasks, including front-end, back-end, and infrastructure.
 
+## Portfolio
+
+[Maaaashi's Portfolio](https://mss-rep.com)
+
+
 ## GitLab Status
 
 <p align="left">
