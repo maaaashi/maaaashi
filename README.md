@@ -14,6 +14,31 @@
 
 [Maaaashi's Portfolio](https://maaaashi-website.mss-rep.com)
 
+## Skill
+
+### Languages & Frameworks
+
+- JavaScript
+- TypeScript
+- Next.js
+- React
+- Golang
+- RubyOnRails
+- Java
+- Kotlin
+
+### Infrastructure
+
+- AWS
+    - Solution Artitect Associate
+- Iac
+    - AWS cdk
+    - Serverless Framework
+- Docker
+    - k8s
+    - compose
+    - swarm
+
 ## GitLab Status
 
 <p align="left">
