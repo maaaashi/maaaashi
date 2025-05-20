@@ -6,38 +6,9 @@
 現在、株式会社ユーザベースでWebエンジニアをしています。
 フロントエンド、バックエンド、インフラなど、幅広く開発を行っています。
 
-> Hello! My name is Maaaashi.
-> I am currently working as a web engineer at Uzabase, Inc.
-> I am involved in a wide range of development tasks, including front-end, back-end, and infrastructure.
-
 ## Portfolio
 
 [Maaaashi's Portfolio](https://maaaashi-website.mss-rep.com)
-
-## Skill
-
-### Languages & Frameworks
-
-- JavaScript
-- TypeScript
-- Next.js
-- React
-- Golang
-- RubyOnRails
-- Java
-- Kotlin
-
-### Infrastructure
-
-- AWS
-    - Solution Artitect Associate
-- Iac
-    - AWS cdk
-    - Serverless Framework
-- Docker
-    - k8s
-    - compose
-    - swarm
 
 ## GitLab Status
 
